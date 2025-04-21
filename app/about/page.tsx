@@ -18,7 +18,7 @@ export default function AboutPage() {
             </p>
             <p className="text-gray-600 dark:text-gray-300">
               This application was developed as a major project by final year
-              students of the Computer Science and Engineering department at
+              students of the Information Science and Engineering department at
               NMAMIT, Nitte, under the guidance of our faculty advisors.
             </p>
           </div>
