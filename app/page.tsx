@@ -19,7 +19,7 @@ export default function Home() {
                 and model training. Upload datasets, configure models, and get results faster.
               </p>
               <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-                <Link href="/datasets/upload" className="bg-white text-blue-600 hover:bg-gray-100 px-6 py-3 rounded-lg font-medium text-lg inline-flex items-center justify-center">
+                <Link href="/models" className="bg-white text-blue-600 hover:bg-gray-100 px-6 py-3 rounded-lg font-medium text-lg inline-flex items-center justify-center">
                   Get Started
                 </Link>
                 <Link href="/docs" className="border border-white hover:bg-white/10 px-6 py-3 rounded-lg font-medium text-lg inline-flex items-center justify-center">
