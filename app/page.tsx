@@ -136,17 +136,17 @@ export default function Home() {
         </section>
 
         {/* CTA Section */}
-        <section className="py-16 bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
+        {/* <section className="py-16 bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-3xl font-bold mb-6">Ready to Transform Your Data?</h2>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               Join hundreds of data scientists and machine learning engineers who are already using our platform to streamline their workflows.
             </p>
-            <Link href="/signup" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg font-medium text-lg inline-flex items-center justify-center">
-              Start Free Trial
+            <Link href="/models" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg font-medium text-lg inline-flex items-center justify-center">
+              Get Started
             </Link>
           </div>
-        </section>
+        </section> */}
 
         {/* Footer */}
         <footer className="bg-gray-900 text-white py-12">
